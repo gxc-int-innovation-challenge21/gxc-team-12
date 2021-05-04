@@ -18,4 +18,8 @@ To get a clear understanding of the problem we needed to illustrate our understa
 
 # Prototype
 
-With all the collected data it was time to develop our digital prototype V.1.0 Go to "Prototype Version 1.0"
+With all the collected data it was time to develop our digital prototype V1.0
+
+# Prototype 2.0
+
+Feedback was gathered within the first Sprint for the prototype V2.0
