@@ -1,3 +1,5 @@
+![](https://github.com/gxc-int-innovation-challenge21/gxc-team-12/blob/70664e134f6dd7a5017425975a9f099e05d15ad4/wintech.PNG)
+
 Welcome to WINTECH, where you can find and create rides for your daily ski and hiking trips. In the Home-Wiki, we will go through the whole creating process our team managed together.
 
 # Introduction
@@ -16,10 +18,20 @@ The challenge is broad and brings up different problems that are associated with
 
 To get a clear understanding of the problem we needed to illustrate our understanding of the problem and how it connects to the idea we have selected to prototype to solve the problem! The best way to do this in order to be prepared to show to our first, possible clients was to develop a storyboard. Go to "Ideating Section"
 
-# Prototype
 
-With all the collected data it was time to develop our digital prototype V1.0
 
-# Prototype 2.0
+# Prototype #
+With all the collected data it was time to develop our digital prototype 1.0 
+[Go to "Prototype Version 1.0"](https://github.com/gxc-int-innovation-challenge21/gxc-team-12/wiki/Prototype-Version-1.0)
+With a lot of feedback from the DSV and a question-form we did with the public stakeholders we made critical and significant changes to the first Version and launched our prototype 2.0 [Go to "Prototype Version 2.0"](https://github.com/gxc-int-innovation-challenge21/gxc-team-12/wiki/Prototype-Version-2.0)
 
-Feedback was gathered within the first Sprint for the prototype V2.0
+
+# Business Model Canvas #
+Every idea needs a functioning business model if it wants to last in the long term and reach as many people as possible.  The Business Model Canvas is the tool of choice for visualizing Wintech's business model and testing whether it makes business sense. [Go to our "Business Model Canvas"](https://github.com/gxc-int-innovation-challenge21/gxc-team-12/wiki/Business-Model-Canvas)
+
+
+***
+
+For any questions feel free to reach out to us and enjoy reading through our GitHub Wiki. 
+Keep Shredding!
+WINTECH <3
