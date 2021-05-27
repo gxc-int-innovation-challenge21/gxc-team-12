@@ -1,6 +1,14 @@
 ![](Uploads/wintech.PNG)
 
-Welcome to WINTECH, where you can find and create rides for your daily ski and hiking trips. Beside our car-sharing feature, you have the possiblity to find a community to connect to people with the same winter-sports mindset you have. 
+![](Final%Presentation/Pitch/Team%12%Pitch.png)
+
+***
+
+Did you know that 77% of trips to ski resorts are done by car, and over 50% of them have only one or two passengers on board? To solve this problem, we (Wintech) have developed a ride-sharing app that helps skiers travel more flexibly and sustainably by allowing drivers to rent their empty seats to passengers going the same way and even back. With our app, you can create or find a ride with only a push of a button. By sharing or joining a ride with others, you save money, meet new people and there is less traffic and CO2. 
+Additionally, we have a Communities feature where users can connect with fellow skiers. They can share or join rides with specific groups they are part of and connect with others by sharing pictures and thoughts within their group. The app is completely free for everyone, so join us and help us shape the greenest winter sports community in the world! 
+
+
+
 
 # About Wintech
 
@@ -10,14 +18,7 @@ The goal of this competition was to shape a more sustainable future for winter s
 
 ![](Uploads/Storyboard%20after%20feedback.png)
 
-# We share rides and connect communities
-
-![](Final%Presentation/Pitch/Team%12%Pitch.png)
-
 ***
-
-Did you know that 77% of trips to ski resorts are done by car, and over 50% of them have only one or two passengers on board? To solve this problem, we (Wintech) have developed a ride-sharing app that helps skiers travel more flexibly and sustainably by allowing drivers to rent their empty seats to passengers going the same way and even back. With our app, you can create or find a ride with only a push of a button. By sharing or joining a ride with others, you save money, meet new people and there is less traffic and CO2. 
-Additionally, we have a Communities feature where users can connect with fellow skiers. They can share or join rides with specific groups they are part of and connect with others by sharing pictures and thoughts within their group. The app is completely free for everyone, so join us and help us shape the greenest winter sports community in the world! 
 
 For any questions feel free to reach out to us.
 
