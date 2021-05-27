@@ -12,6 +12,6 @@ WINTECH is an application wanting to help the DSV create a more sustainable futu
 
 ***
 
-For any questions feel free to reach out to us and enjoy reading through our GitHub Wiki. 
+For any questions feel free to reach out to us.
 Keep Shredding!
 WINTECH <3
