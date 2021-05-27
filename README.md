@@ -12,7 +12,7 @@ The goal of this competition was to shape a more sustainable future for winter s
 
 # We share rides and connect communities
 
-![](Final%Presentation/Pitch/Team%12%Pitch.png)
+![](Final Presentation/Pitch/Team 12 Pitch.png)
 
 ***
 
