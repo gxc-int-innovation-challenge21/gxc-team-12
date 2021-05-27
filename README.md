@@ -8,6 +8,8 @@ WINTECH is an application wanting to help the DSV create a more sustainable futu
 
 The goal of this competition was to shape a more sustainable future for winter sports fans with the help of a digital solution. After our research and the first teammeeting one potential issue that come with skiing, is the travelling to the mountains with the cars. You will find the explanation of our idea in the Storyboard below:
 
+![](Uploads/Storyboard%20after%20feedback.png)
+
 # We share rides and connect communities
 
 
