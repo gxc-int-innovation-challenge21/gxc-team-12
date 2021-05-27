@@ -1,4 +1,4 @@
-![](Final%Presentation/Pitch/Pitch_small.png)
+![](Uploads/Team_Pitch.png)
 
 ***
 
