@@ -1,6 +1,6 @@
 ![](Uploads/wintech.PNG)
 
-![](Final%Presentation/Pitch/Team%12%Pitch.png)
+![](Final%Presentation/Pitch/Pitch_small.png)
 
 ***
 
