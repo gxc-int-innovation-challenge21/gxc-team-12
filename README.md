@@ -12,9 +12,9 @@ Additionally, we have a communities feature where users can connect with fellow 
 
 ## About Wintech
 
-WINTECH is an application wanting to help the DSV create a more sustainable future for Wintersports. The application we create helps to share your car or find a trip to a ski-region. We also connect people with our community feature. The DSV can also use the whole community function for their professional teams, to plan the team-rides more sustainable and get the teams together. We are a start-up that emerged after taking part in an international student challenge given by the Hochschule München and DSV. 
+WINTECH is an application with a goal to help the DSV create a more sustainable future for Wintersports. The application we created helps to share your car or find a trip to a ski-region. We also connect people with our community feature. The DSV can also use the whole community function for their professional teams. They can plan the team-rides more sustainably and get the teams together. We are a start-up that emerged after taking part in an international student challenge given by the Hochschule München and DSV. 
 
-The goal of this competition was to shape a more sustainable future for winter sports fans with the help of a digital solution. After our research and the first meetings wo found out that one potential issue that comes with skiing, is about all the travelling to the mountains with the private cars. To get a better understandig about the problem you will find the explanation of our idea in the Storyboard below:
+The goal of this competition was to shape a more sustainable future for winter sports fans with the help of a digital solution. After our research and the first meetings we found out that one potential issue that comes with skiing, is about all the travelling to the ski resorts with private cars. To get a better understanding about the problem you will find the explanation of our idea in the Storyboard below:
 
 ![](Uploads/Storyboard%20after%20feedback.png)
 
