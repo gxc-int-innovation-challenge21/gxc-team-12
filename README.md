@@ -18,6 +18,11 @@ The goal of this competition was to shape a more sustainable future for winter s
 
 ***
 
+This is where you can find our GitHub online page [Go to Wintech's GitHub Page](https://gxc-int-innovation-challenge21.github.io/gxc-team-12/)
+This is where you can find our GitHub Wiki [Go to Wintech's GitHub Wiki](https://github.com/gxc-int-innovation-challenge21/gxc-team-12/wiki)
+
+***
+
 For any questions feel free to reach out to us.
 
 Keep Shredding!
