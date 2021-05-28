@@ -5,7 +5,7 @@ Did you know that 77% of trips to ski resorts are done by car, and over 50% of t
 
 Additionally, we have a communities feature where users can connect with fellow skiers. They can share or join rides with specific groups they are part of and connect with others by sharing pictures and thoughts within their group. The app is completely free for everyone, so join us and help us shape the greenest winter sports community in the world! 
 
-*(Source: )
+*(Source: https://www.stiftung.ski/sis-lab/grundlagenstudie-wintersport/)
 
 
 
